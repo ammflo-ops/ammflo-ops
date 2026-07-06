@@ -8,7 +8,7 @@ This [Github Portfolio](https://github.com/ammflo-ops/NAVA-Business-Intelligence
 
 ---
 
-### 📂 EXPLORE MY PORTFOLIO
+### 📂 Explore My Portfolio
 
 | Repository | Description | Github Link |
 |------------|--------|----------------|
@@ -20,7 +20,10 @@ This [Github Portfolio](https://github.com/ammflo-ops/NAVA-Business-Intelligence
 
 ---
 
-### ✍️ LET'S CONNECT
+### ☕️ Let's Connect!
 
-- [Email](mailto:ammany.florence@gmail.com)
-- [Linkedin](https://www.linkedin.com/in/florence-ammany-75029a367/)
+<a href="mailto:ammany.florence@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+</p>
+
