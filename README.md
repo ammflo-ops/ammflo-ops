@@ -1,49 +1,26 @@
-### Business Intelligence & Data Analyst
+# Hi, I'm Florence 👋
 
-Building end-to-end Business Intelligence solutions through SQL, Tableau and business analytics.
+I'm a **Business Intelligence & Data Analyst** with a background in Audit, Finance and Digital Marketing.
 
----
+Throughout my career, I've been driven by a strong interest in understanding business performance and turning data into actionable insights.
 
-## Featured Portfolio
-
-### NAVA Business Intelligence Portfolio
-
-One shared SQL architecture.
-
-Four complementary repositories.
-
-One Business Intelligence solution.
-
-🔗 Explore the Portfolio
+This [portfolio](https://github.com/ammflo-ops/NAVA-Business-Intelligence-Portfolio/blob/main/README.md) reflects that approach through a collection of end-to-end Business Intelligence projects.
 
 ---
 
-## Portfolio Structure
+### 🔗 QUICK ACCESS
 
-🏗️ Technical Foundation
-
-📈 Sales Performance
-
-💰 Budget Performance
-
-📣 Marketing Optimization
-
----
-
-## Technical Skills
-
-SQL (MySQL) • Tableau • Excel
-
-Data Modeling • ETL • Data Quality
-
-Business Intelligence • Dashboard Development
+| Repository | Description | Github Link |
+|------------|--------|----------------|
+| 📖 Portfolio Hub | Solution overview and navigation | [Learn More](https://github.com/ammflo-ops/NAVA-Business-Intelligence-Portfolio/blob/main/README.md) |
+| 📁 00 Technical Foundation | SQL Architecture, ETL & Analytics Views | [Learn More](https://github.com/ammflo-ops/NAVA-00-Technical-Foundation/blob/main/README.md) |
+| 📊 01 Sales Performance | Revenue Growth & Profitability Analysis | [Learn More](https://github.com/ammflo-ops/NAVA-01-sales-performance/blob/main/README.md) |
+| 📊 02 Budget Performance | Budget Monitoring & Variance Analysis | [Learn More](https://github.com/ammflo-ops/NAVA-02-budget-overview/blob/main/README.md) |
+| 📊 03 Marketing Performance | Marketing Efficiency & Budget Optimization | [Learn More](https://github.com/ammflo-ops/NAVA-03-marketing-optimization/blob/main/README.md) |
 
 ---
 
-## Let's Connect
+### ✍️ LET'S CONNECT
 
-LinkedIn
-
-Tableau Public
-
-Email
+- [Email](mailto:ammany.florence@gmail.com)
+- [Linkedin](https://www.linkedin.com/in/florence-ammany-75029a367/)
