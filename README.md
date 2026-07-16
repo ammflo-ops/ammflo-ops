@@ -4,11 +4,11 @@ I'm a **Business Intelligence & Data Analyst** with a background in Audit, Finan
 
 Throughout my career, I've been driven by a curiosity for understanding business performance and turning data into actionable insights.
 
-This [Github Portfolio](https://github.com/ammflo-ops/NAVA-Business-Intelligence-Portfolio/blob/main/README.md) reflects that approach through a collection of end-to-end Business Intelligence projects.
+This [Github Portfolio](https://github.com/ammflo-ops/NAVA-Business-Intelligence-Portfolio/blob/main/README.md) reflects that approach through a collection of end-to-end Business Intelligence  and analytical projects covering SQL, Tableau and Microsoft Excel.
 
 ---
 
-### 📂 Explore My Portfolio
+### 📂 Business Intelligence Portfolio
 
 | Repository | Description | Github Link |
 |------------|--------|----------------|
@@ -17,7 +17,12 @@ This [Github Portfolio](https://github.com/ammflo-ops/NAVA-Business-Intelligence
 | 📊 01 Sales Performance | Revenue Growth & Profitability Analysis | [View Repository](https://github.com/ammflo-ops/NAVA-01-sales-performance/blob/main/README.md) |
 | 📊 02 Budget Overview | Budget Monitoring & Variance Analysis | [View Repository](https://github.com/ammflo-ops/NAVA-02-budget-overview/blob/main/README.md) |
 | 📊 03 Marketing Optimization | Marketing Efficiency & Budget Optimization | [View Repository](https://github.com/ammflo-ops/NAVA-03-marketing-optimization/blob/main/README.md) |
-| 📊 04 Customers Analysis | Customer Health, RFM Segmentation & Cohort Analysis | [View Repository](https://github.com/ammflo-ops/NAVA-Customer-Analytics-Excel/blob/main/README.md) |
+
+### 📁 Excel Analytics Projects
+
+| Repository | Description | GitHub Link |
+|------------|-------------|-------------|
+| 📊 Customer Analytics in Excel | Customer Health, RFM Segmentation & Cohort Analysis | [View Repository](https://github.com/ammflo-ops/NAVA-Customer-Analytics-Excel/blob/main/README.md) |
 
 ---
 
