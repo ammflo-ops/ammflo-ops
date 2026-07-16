@@ -18,7 +18,9 @@ This [Github Portfolio](https://github.com/ammflo-ops/NAVA-Business-Intelligence
 | 📊 02 Budget Overview | Budget Monitoring & Variance Analysis | [View Repository](https://github.com/ammflo-ops/NAVA-02-budget-overview/blob/main/README.md) |
 | 📊 03 Marketing Optimization | Marketing Efficiency & Budget Optimization | [View Repository](https://github.com/ammflo-ops/NAVA-03-marketing-optimization/blob/main/README.md) |
 
-### 📁 Excel Analytics Projects
+
+
+### 📈 Excel Analytics Projects
 
 | Repository | Description | GitHub Link |
 |------------|-------------|-------------|
