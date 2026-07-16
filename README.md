@@ -15,8 +15,9 @@ This [Github Portfolio](https://github.com/ammflo-ops/NAVA-Business-Intelligence
 | 📖 Portfolio Hub | Solution overview and navigation | [View Repository](https://github.com/ammflo-ops/NAVA-Business-Intelligence-Portfolio/blob/main/README.md) |
 | 📁 00 Technical Foundation | SQL Architecture, ETL & Analytics Views | [View Repository](https://github.com/ammflo-ops/NAVA-00-Technical-Foundation/blob/main/README.md) |
 | 📊 01 Sales Performance | Revenue Growth & Profitability Analysis | [View Repository](https://github.com/ammflo-ops/NAVA-01-sales-performance/blob/main/README.md) |
-| 📊 02 Budget Performance | Budget Monitoring & Variance Analysis | [View Repository](https://github.com/ammflo-ops/NAVA-02-budget-overview/blob/main/README.md) |
-| 📊 03 Marketing Performance | Marketing Efficiency & Budget Optimization | [View Repository](https://github.com/ammflo-ops/NAVA-03-marketing-optimization/blob/main/README.md) |
+| 📊 02 Budget Overview | Budget Monitoring & Variance Analysis | [View Repository](https://github.com/ammflo-ops/NAVA-02-budget-overview/blob/main/README.md) |
+| 📊 03 Marketing Optimization | Marketing Efficiency & Budget Optimization | [View Repository](https://github.com/ammflo-ops/NAVA-03-marketing-optimization/blob/main/README.md) |
+| 📊 04 Customers Analysis | Customer Health, RFM Segmentation & Cohort Analysis | [View Repository](https://github.com/ammflo-ops/NAVA-Customer-Analytics-Excel/blob/main/README.md) |
 
 ---
 
